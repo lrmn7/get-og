@@ -81,4 +81,4 @@ It looks like the following:
 
 ## License
 
-[MIT](./LICENSE) License © 2023 [L RMN](https://lrmn.is-a.dev)
+[MIT](./LICENSE) License © 2023 [L RMN](https://lrmn.is-a.dev/)
